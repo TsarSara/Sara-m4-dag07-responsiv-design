@@ -61,7 +61,7 @@ article img,
   display: inline-block;
   background-color: #8c1010;
   color: #ffffff;
-  padding: 12px 20px;
+  padding: 16px 20px;
   border: 0;
   border-radius: 6px;
   text-decoration: none;
@@ -259,6 +259,10 @@ address {
   flex-direction: column;
   gap: 8px;
 }
+
+.val label {
+  padding: 8px;
+ }
 
 @media (min-width: 600px) {
 
